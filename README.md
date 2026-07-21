@@ -30,19 +30,10 @@ Full Stack Laravel Developer | Software Engineering Student
 
 
 - 💻 Full Stack Laravel Developer
-
-- 🎓 Software Engineering Student
-
 - 🔭 Currently working on Laravel based applications
-
 - 🌱 Currently learning Advanced Laravel, APIs and Software Architecture
-
 - 🚀 Interested in Clean Code, MVC Architecture and Database Design
-
-- 📚 Love building real-world applications
-
 - 📹 Creating Laravel development content
-
 - 📫 Reach me:
   **mshadir287@gmail.com**
 
