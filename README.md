@@ -96,35 +96,16 @@ Building modern web applications with Laravel and full-stack technologies.
 <tr>
 <td width="50%">
 
-### [Project Name](https://github.com/Shadir18/repo-name)
-Short one-line description of what it does and the problem it solves.
-
-`Laravel` `MySQL` `REST API`
+### [GreenLifeStore](https://github.com/Shadir18/GreenLifeStore)
 
 </td>
 <td width="50%">
 
-### [Project Name](https://github.com/Shadir18/repo-name)
-Short one-line description of what it does and the problem it solves.
-
-`Laravel` `Bootstrap` `Auth`
+### [Find-Me](https://github.com/Shadir18/Findme)
 
 </td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shadir18&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadir18&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shadir18&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
@@ -165,7 +146,3 @@ Short one-line description of what it does and the problem it solves.
 <h3 align="center">
 Thanks for visiting my profile
 </h3>
-
-<p align="center">
-Let's build something amazing together.
-</p>
