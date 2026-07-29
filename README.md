@@ -24,13 +24,8 @@ Full Stack Laravel Developer | Software Engineering Student
 
 ## About Me
 
-- Full Stack Laravel Developer
-- Software Engineering Student
-- Building web applications using Laravel and modern web technologies
-- Currently improving Laravel architecture, REST APIs and software design practices
-- Interested in clean code, MVC architecture and database design
-- Creating Laravel development content
-- Email: **mshadir287@gmail.com**
+I'm a curious and driven developer who enjoys solving problems and turning ideas into meaningful applications. I believe that software development is a continuous learning journey, and I strive to improve with every project I build. I value clean, maintainable code, thoughtful design, and creating solutions that make a real impact. Challenges motivate me to think critically, learn new technologies, and grow beyond my comfort zone. As a Software Engineering student and Full Stack Laravel Developer, my goal is to keep evolving, contribute to meaningful projects, and build software that improves people's everyday lives while sharing knowledge with the developer community. You can reach me at **[mshadir287@gmail.com](mailto:mshadir287@gmail.com)**.
+
 
 </td>
 
